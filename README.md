@@ -1,2 +1,2 @@
 # create-Chat
-# link: https://AndrewTi.github.io/create-Chat/
+# link: http://andrewti.github.io/create-Chat/
